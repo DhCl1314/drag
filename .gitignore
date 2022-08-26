@@ -1,0 +1,7 @@
+unpackage
+unpackage/dist
+.hbuilderx
+.vite
+node_modules
+.DS_Store
+unpackage/dist/dev/app-plus/app-service.js
